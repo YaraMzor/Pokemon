@@ -1,0 +1,17 @@
+
+.Header{
+    background-color: #f8f832;
+ 
+}
+.search{
+    border-radius: 12px;
+    width: 100px;
+    height: 20px;
+}
+.img1{
+    border: 1px solid rgb(34, 153, 19);
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+}
